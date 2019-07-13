@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ALCAndroidPhaseOneChallenge</string>
+    <string name="main_activity">ALC 4 Phase 1</string>
+    <string name="about_activity">About ALC</string>
+    <string name="profile_activity">My Profile</string>
+    <string name="track">Track:    Android</string>
+    <string name="country">Country:   Ghana</string>
+    <string name="email">E-mail:   daviddeveloper20@gmail.com</string>
+    <string name="phone_number">Phone number:   +233548752965</string>
+    <string name="slack_username">Slack username:   @David Simeon</string>
+</resources>
